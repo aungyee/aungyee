@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aungyee
 - 👀 I’m interested in Algorithms and Computer Network
-- 🌱 I’m currently learning Optimisation Algorithms
+- 🌱 I’m currently learning Computational Statisitics Optimisation Algorithms
 
 <!---
 aungyee/aungyee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
